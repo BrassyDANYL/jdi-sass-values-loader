@@ -1,19 +1,19 @@
 # `jdi-sass-vars-to-js-loader`
 
-`sass-vars-to-js-loader` is a Webpack loader that allows you share the values of your Sass files with your javascript when using webpack.
+`jdi-sass-vars-to-js-loader` is a Webpack loader that allows you share the values of your Sass files with your javascript when using webpack.
 
 This module is a fork of [`sass-values-loader`](https://www.npmjs.com/package/sass-values-loader).
 
 ## Installation
 
 ```sh
-npm install --save-dev sass-vars-to-js-loader node-sass
+npm install --save-dev jdi-sass-vars-to-js-loader node-sass
 ```
 
 or if you use yarn
 
 ```sh
-yarn add --dev sass-vars-to-js-loader node-sass
+yarn add --dev jdi-sass-vars-to-js-loader node-sass
 ```
 
 as a peer dependency you need to install `node-sass` if you don't have it already

@@ -1,6 +1,6 @@
 {
   "name": "jdi-sass-vars-to-js-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -29,7 +29,7 @@
     "scss-parser": "^1.0.6"
   },
   "peerDependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^9.0.0"
   },
   "jest": {
     "testURL": "http://localhost/"
@@ -53,6 +53,7 @@
     "style-loader": "^3.3.3",
     "webpack": "^5.88.2",
     "webpack-cleanup-plugin": "^0.5.1",
+    "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   }
 }

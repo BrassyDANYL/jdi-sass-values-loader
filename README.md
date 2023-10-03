@@ -1,4 +1,4 @@
-# `sass-vars-to-js-loader`
+# `jdi-sass-vars-to-js-loader`
 
 `sass-vars-to-js-loader` is a Webpack loader that allows you share the values of your Sass files with your javascript when using webpack.
 
